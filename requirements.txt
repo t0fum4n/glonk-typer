@@ -1,1 +1,2 @@
 pyautogui
+#keyboard # Uncomment for v2
